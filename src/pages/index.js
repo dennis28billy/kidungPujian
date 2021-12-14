@@ -1,4 +1,5 @@
-import SearchSong from "./SearchSong";
 import Splash from "./Splash";
+import SearchSong from "./SearchSong";
+import Song from "./Song";
 
-export {SearchSong, Splash};
+export {Splash, SearchSong, Song};
